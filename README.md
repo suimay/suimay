@@ -18,9 +18,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-1st%20Year-8a2be2?style=flat-square&logo=programming" alt="컴퓨터공학 1학년 배지" />
-</p>
+
 
 ---
 
