@@ -19,12 +19,3 @@
 ---
 
 
-
----
-
-<style>
-  h1, h3, li {
-    color: #8a2be2; 
-  }
-</style>
-
